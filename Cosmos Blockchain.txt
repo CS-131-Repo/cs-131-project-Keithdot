@@ -1,0 +1,4 @@
+This project is in relation to Bitcoin. As there are a lot of Cryptocurrencies out there, I specifically chose one which I believe
+would have an impact in the Cryptocurrency community. Others also has an impact but this stood out to me as Cosmos is simply trying
+to become like the internet of blockchains. We also covered Trees that is similar to how Cosmos works which gave me a better 
+chance of picking this as I could relate it to discrete structures.
