@@ -6,11 +6,11 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Keith Chua
 
-## Student ID    : 
+## Student ID    : 889602196
 
-## Student Email : 
+## Student Email : chuakv2260@student.laccd.edu
 
 ## Purpose of Repository
 
